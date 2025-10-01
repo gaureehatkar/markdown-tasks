@@ -23,7 +23,7 @@ Think of it like choosing the right container:
 
 👉 **Code Example: Traversing an Array (C++)**
 ```cpp
-int arr[4] = {10, 20, 30, 40};
+int arr[5] = {10, 20, 30, 40,50};
 for (int i = 0; i < 4; i++) {
     cout << arr[i] << " ";  // prints: 10 20 30 40
 }
